@@ -1,4 +1,4 @@
-#インストール
+#インストール  
 git clone https://github.com/ARRA243/live-remover.git  
 pip install -r requirements.txt  
 python 3.9.0 で作成
