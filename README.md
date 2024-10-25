@@ -1,6 +1,6 @@
 git clone https://github.com/ARRA243/live-remover.git  
-pip install -r requirements.txt
-
+pip install -r requirements.txt  
+python 3.9.0  
 
 #アプリの概要  
 ゲーム配信の録画から、ゲーム音を取り除き、配信の声だけを抽出するアプリ。  
