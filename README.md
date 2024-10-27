@@ -29,7 +29,7 @@
 
 # 今後の課題  
 ・ダウンロードできない場合がある  
-　繰り返すとできるが、原因究明中  
+　おそらく、cpu使用率が高すぎると止まってしまう？  
 ・リアルタイムの配信でできるようにしたい  
 　下記を参考にすれば可能か？  
 　https://github.com/wakapippi/VocalRemoverWebExtension  
