@@ -5,9 +5,6 @@ from spleeter.separator import Separator
 
 app = Flask(__name__)
 
-# CPUを強制的に使用するための設定
-os.environ['CUDA_VISIBLE_DEVICES'] = '-1' 
-
 # index.htmlを表示する
 @app.route('/')
 def home():
