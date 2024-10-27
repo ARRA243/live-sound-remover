@@ -5,7 +5,7 @@
 
 # 導入
 ・FFmpegのダウンロード　https://ffmpeg.org/download.html  ※環境変数の設定方法に注意  
-・pip install -r requirements.txt
+・pip install -r requirements.txt  
 ・python 3.9で作成
 
 # 使用方法
