@@ -6,7 +6,9 @@ FPSなどのゲーム音が大切なゲームをやりながら、同じゲー�
 
 ### 導入
 ------------
+FFmpegのダウンロード　https://ffmpeg.org/download.html  
 pip install -r requirements.txt
+
 
 ### どんな意図で作ったのか
 ------------
